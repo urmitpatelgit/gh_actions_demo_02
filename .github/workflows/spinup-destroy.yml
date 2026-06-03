@@ -10,7 +10,7 @@ env:
   AZURE_APP_PLAN: actions-ttt-deployment
   AZURE_LOCATION: '"Central US"'
   ###############################################
-  ### Replace <username> with GitHub username ###
+  ### Replace <username> with GitHub username Urmit###
   ###############################################
   AZURE_WEBAPP_NAME: urmitpatelgit-ttt-app
 
